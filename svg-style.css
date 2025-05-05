@@ -1,0 +1,229 @@
+.brew svg {
+    position: absolute;
+    overflow: visible;
+}
+.cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+  fill: none;
+}
+
+.cls-18 {
+  fill: #00bae9;
+}
+
+.cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-2, .cls-30, .cls-31, .cls-32, .cls-33, .cls-4, .cls-5, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-8, .cls-10, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-13, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-15, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69 {
+  stroke: #0d274d;
+}
+
+.cls-18, .cls-19, .cls-22, .cls-25, .cls-27, .cls-28, .cls-29, .cls-2, .cls-31, .cls-32, .cls-33, .cls-4, .cls-7, .cls-38, .cls-8, .cls-70, .cls-40, .cls-41, .cls-11, .cls-42, .cls-44, .cls-12, .cls-45, .cls-48, .cls-52, .cls-71, .cls-13, .cls-14, .cls-54, .cls-56, .cls-58, .cls-60, .cls-61, .cls-65, .cls-66, .cls-16, .cls-17, .cls-69, .cls-72, .cls-73 {
+  stroke-miterlimit: 10;
+}
+
+.cls-18, .cls-20, .cls-74, .cls-21, .cls-75, .cls-23, .cls-24, .cls-26, .cls-76, .cls-30, .cls-3, .cls-77, .cls-5, .cls-34, .cls-35, .cls-36, .cls-37, .cls-8, .cls-9, .cls-10, .cls-39, .cls-43, .cls-46, .cls-47, .cls-49, .cls-50, .cls-51, .cls-53, .cls-78, .cls-55, .cls-57, .cls-59, .cls-60, .cls-79, .cls-15, .cls-80, .cls-62, .cls-63, .cls-64, .cls-81, .cls-67, .cls-68 {
+  stroke-linecap: round;
+}
+
+.cls-19, .cls-23, .cls-24, .cls-26, .cls-29, .cls-2, .cls-30, .cls-34, .cls-35, .cls-37, .cls-42, .cls-43, .cls-45, .cls-46, .cls-47, .cls-54, .cls-58, .cls-61, .cls-15, .cls-63, .cls-66, .cls-67, .cls-69 {
+  stroke-width: .75px;
+}
+
+.cls-19, .cls-33 {
+  fill: #e3241b;
+}
+
+.cls-20, .cls-74, .cls-21, .cls-75, .cls-23, .cls-24, .cls-26, .cls-76, .cls-30, .cls-3, .cls-77, .cls-5, .cls-34, .cls-35, .cls-36, .cls-6, .cls-37, .cls-9, .cls-10, .cls-39, .cls-43, .cls-46, .cls-47, .cls-49, .cls-50, .cls-51, .cls-53, .cls-78, .cls-55, .cls-57, .cls-59, .cls-79, .cls-15, .cls-80, .cls-62, .cls-63, .cls-64, .cls-81, .cls-67, .cls-68 {
+  stroke-linejoin: round;
+}
+
+.cls-20, .cls-82, .cls-40, .cls-43, .cls-69, .cls-73 {
+  fill: #e2e2e2;
+}
+
+.cls-74, .cls-76, .cls-9, .cls-79, .cls-80 {
+  stroke: #0d274d;
+}
+
+.cls-74, .cls-83 {
+  fill: #0d274d;
+}
+
+.cls-21, .cls-42, .cls-56, .cls-80, .cls-63 {
+  fill: #fbab18;
+}
+
+.cls-22 {
+  fill: #e0e0e0;
+}
+
+.cls-75, .cls-29, .cls-37, .cls-84, .cls-78, .cls-60, .cls-79, .cls-64, .cls-65, .cls-72 {
+  fill: #fff;
+}
+
+.cls-75, .cls-77, .cls-6, .cls-70, .cls-11, .cls-71, .cls-81, .cls-72, .cls-73 {
+  stroke: #0b2750;
+}
+
+.cls-23 {
+  fill: #dfdfdf;
+}
+
+.cls-24 {
+  fill: #df231a;
+}
+
+.cls-25, .cls-76, .cls-35, .cls-57, .cls-58 {
+  fill: #00bceb;
+}
+
+.cls-26 {
+  fill: #6abc4b;
+}
+
+.cls-85 {
+  fill: #f4f5f6;
+}
+
+.cls-27 {
+  fill: #faaa18;
+}
+
+.cls-28, .cls-45 {
+  fill: #00bbea;
+}
+
+.cls-86 {
+  fill: #414344;
+  font-size: 39.2px;
+}
+
+.cls-86, .cls-87 {
+  font-family: CiscoSansTTLight, CiscoSansTT;
+}
+
+.cls-30 {
+  fill: #0051ac;
+}
+
+.cls-31, .cls-62, .cls-81 {
+  fill: #e2231a;
+}
+
+.cls-32, .cls-88, .cls-49, .cls-50, .cls-51, .cls-71, .cls-66, .cls-67, .cls-87 {
+  fill: #0d274d;
+}
+
+.cls-3 {
+  stroke: #1e4471;
+}
+
+.cls-4 {
+  stroke-width: 8px;
+}
+
+.cls-77, .cls-48, .cls-54 {
+  fill: #1e4471;
+}
+
+.cls-5 {
+  stroke-dasharray: 0 0 0 5.54;
+  stroke-width: 1.78px;
+}
+
+.cls-34 {
+  fill: #6bb94b;
+}
+
+.cls-36, .cls-89, .cls-52 {
+  fill: #6abe4b;
+}
+
+.cls-7 {
+  stroke: #6abf4b;
+}
+
+.cls-7, .cls-12, .cls-16, .cls-17 {
+  stroke-width: 6px;
+}
+
+.cls-90 {
+  isolation: isolate;
+}
+
+.cls-38, .cls-47, .cls-61, .cls-68 {
+  fill: #6abf4b;
+}
+
+.cls-70 {
+  fill: #0b2750;
+}
+
+.cls-91 {
+  clip-path: url(#clippath-3);
+}
+
+.cls-92 {
+  clip-path: url(#clippath-4);
+}
+
+.cls-39 {
+  fill: #e1e1e1;
+}
+
+.cls-41 {
+  fill: #fbab2c;
+}
+
+.cls-44 {
+  fill: #a8a8ac;
+}
+
+.cls-12 {
+  stroke: #e2e2e2;
+}
+
+.cls-46 {
+  fill: #f8a818;
+}
+
+.cls-49 {
+  stroke-width: 1.42px;
+}
+
+.cls-50 {
+  stroke-width: 1.5px;
+}
+
+.cls-14 {
+  stroke: #13274c;
+}
+
+.cls-53 {
+  fill: #e9e9e9;
+}
+
+.cls-78 {
+  stroke: #042750;
+}
+
+.cls-55 {
+  fill: #0051ad;
+}
+
+.cls-59 {
+  fill: #0051af;
+}
+
+.cls-16 {
+  stroke: #fbab18;
+}
+
+.cls-17 {
+  stroke: #00bceb;
+}
+
+.cls-87 {
+  font-size: 20.53px;
+}
+
+.cls-93 {
+  clip-path: url(#clippath);
+}
