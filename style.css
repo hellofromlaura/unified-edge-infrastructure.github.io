@@ -22,7 +22,6 @@ div.brew {
     text-rendering: optimizeLegibility;
     background: #fff;
     margin: 0px;
-    /* zoom: 90%; */
 }
 .brew h1 {
     font-size: 5.8em;
@@ -53,7 +52,7 @@ div.brew {
     margin: 0px;
 }
 .brew h1,
-.brew h3 ,
+.brew h3,
 .brew p {
     font-weight: 300;
     color: #424445;
@@ -228,6 +227,33 @@ div.brew {
 .brew .position-up-3.showRight {
     transform: translateX(0%) translateY(-113%);
     -webkit-transform: translateX(0%) translateY(-113%);
+}
+
+@media only screen and (max-width: 1600px) {
+    .brew h1 {
+        font-size: 5.8vw;
+        line-height: 5.3vw;
+        letter-spacing: 0.02vw;
+    }
+    .brew h2 {
+        font-size: 4.5vw;
+        letter-spacing: 0.13vw;
+        line-height: 4.5vw;
+    }
+    .brew h3 {
+        font-size: 2.91vw;
+        letter-spacing: 0.125vw;
+    }
+    .brew p {
+        font-size: 2.25vw;
+        line-height: 3.5vw;
+        letter-spacing: 0.065vw;
+    }
+    .Sources p {
+        font-size: 1.1vw;
+        line-height: 1.85vw;
+        letter-spacing: 0.065vw;
+    }
 }
 
 @media only screen and (max-width: 768px) {
